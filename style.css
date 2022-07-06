@@ -11,7 +11,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 
 }
 
@@ -40,4 +40,243 @@ margin-bottom: 50px;
     color: white;
     font-weight: 500px;
     
+}
+.donate{
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+
+}
+
+.donate-description {
+
+    margin-top: 50px;
+    display: flex;
+    padding: 30px 30px 30px 30px;
+    margin-left: -80px;
+}
+.box-text
+{
+    margin-bottom: 20px;
+    font-size: 23px;
+}
+.box1{ 
+    width: 80px;
+    background:rgb(247, 244, 244);
+    text-align: justify;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-left: 20px;
+
+
+  }
+  .box2{ 
+    width: 80px;
+    background:rgb(238, 195, 195);
+    text-align: justify;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-left: 20px;
+    color: tomato;
+    border: 2px solid tomato;
+  }
+  input{
+    width: 500px;
+    padding: 10px 20px;
+    border-color: transparent;
+    border-bottom: 1px solid darkgrey;
+    font-size: 18px;
+    margin-bottom: 50px;
+    text-align: center;
+
+  }
+
+  .donation-plan{
+
+    margin-top: 100px;
+  }
+  .donation-text{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+  }
+  .donation-paragraph{
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-bottom: 80px;
+  }
+  .donation-description {
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+.box3 {
+    width: 270px;
+    background:aliceblue;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+.icon img {
+    width: 50px;
+    margin-bottom: 20px;
+
+}
+
+.box4 {
+    width: 270px;
+    background:antiquewhite;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+.box5 {
+    width: 270px;
+    background:lemonchiffon;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+
+.donation-plan{
+    margin-bottom: 150px;
+}
+
+h2{
+    text-align: center;
+}
+
+.icon-bonus img{
+
+    width: 300px;
+    margin-bottom: 35px;
+
+}
+.icon-bonus0 img {
+
+    width: 300px;
+
+
+}
+.icon-bonus1 img{
+
+    width: 300px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+
+}
+.bonus-description{
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-wrap: wrap;
+
+}
+.box6 {
+    width: 270px;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 25px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+.bonus-text{
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align: center;
+
+}
+.bonus-para{
+    text-align:center;
+}
+.bonus-contact{
+
+    text-align: center;
+    margin-bottom: 100px;
+}
+.bonus-button {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 500px;
+    
+}
+input[type=email], select {
+    width: 50%;
+    padding: 9px 13px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color:Gainsboro ;
+    text-align: left;
+    margin-left: 90px;
+
+    
+  }
+  
+  
+  input[type=submit] {
+    width: 20%;
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 10px 15px;
+    margin-left: -10px;
+  }
+  
+
+  .form {
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    padding: 70px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+  }
+  .navbar {
+    background-color: black;
+    color:#e73434c2;
+    padding: 60px 60px 60px 60px;
+    text-align: center;
+
+}
+.foot-text{
+    font-family: 'Lobster', cursive;
+
+    font-size: 40px;
+
+}
+.foot-para{
+    color: white;
 }
